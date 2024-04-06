@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="spaceship">SPACE SHIP</string>
+    <string name="opm">ONE PUNCH MAN (2012)</string>
+    <string name="haikyuu">HAIKYUU (2012)</string>
+    <string name="fly">FLY HIGH</string>
+    <string name="swordsman">SWORDSMAN</string>
+    <string name="berserk">BERSERK (1989)</string>
+
+
+</resources>
